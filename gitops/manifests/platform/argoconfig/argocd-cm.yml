@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://fluffy-enigma-p74r4rpr6jc4pq-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://fluffy-enigma-p74r4rpr6jc4pq-30100.app.github.dev"  
